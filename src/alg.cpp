@@ -1,5 +1,10 @@
-@@ -4,17 +4,57 @@
 
+@@ -1,20 +1,49 @@
+// Copyright 2022 NNTU-CS
+#ifndef INCLUDE_ALG_H_
+#define INCLUDE_ALG_H_
+#include <cstdint>
+#include "alg.h"
 
 bool checkPrime(uint64_t value) {
 // вставьте код функции
